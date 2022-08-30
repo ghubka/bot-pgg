@@ -1,4 +1,4 @@
-# bot-pgg
+# bot-pgg jak kupić węgiel na PGG?
 Bot PGG wspomagajacy zakup
 
 https://pomagacz-pgg.pl/
